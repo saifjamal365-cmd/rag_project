@@ -1,0 +1,22 @@
+[
+  {"id": 1, "question": "هل يجوز لصاحب العمل وضع العامل تحت التجربة أكثر من مرة؟", "law": "labor_law", "expected_article": 54},
+  {"id": 2, "question": "هل يحق لصاحب العمل فصل الموظف دون إشعار؟", "law": "labor_law", "expected_article": 80},
+  {"id": 3, "question": "متى يحق للعامل ترك العمل دون إشعار؟", "law": "labor_law", "expected_article": 81},
+  {"id": 4, "question": "هل يجوز فصل العامل بسبب المرض مباشرة؟", "law": "labor_law", "expected_article": 82},
+  {"id": 5, "question": "متى يستحق العامل مكافأة نهاية الخدمة عند انتهاء علاقة العمل؟", "law": "labor_law", "expected_article": 84},
+  {"id": 6, "question": "ماذا يحدث لمكافأة نهاية الخدمة إذا انتهت الخدمة لأسباب صحية؟", "law": "labor_law", "expected_article": 85},
+  {"id": 7, "question": "كم ساعة يجوز تشغيل العامل يومياً كحد أقصى؟", "law": "labor_law", "expected_article": 98},
+  {"id": 8, "question": "هل يمكن زيادة ساعات العمل المقررة نظاماً؟", "law": "labor_law", "expected_article": 99},
+  {"id": 9, "question": "كم يوم إجازة سنوية يستحقها العامل؟", "law": "labor_law", "expected_article": 109},
+  {"id": 10, "question": "هل يحق للعامل إجازة مرضية مدفوعة الأجر؟", "law": "labor_law", "expected_article": 117},
+  {"id": 11, "question": "كم مدة إجازة الوضع للمرأة العاملة؟", "law": "labor_law", "expected_article": 151},
+  {"id": 12, "question": "هل يحق للمرأة العاملة فترات راحة للرضاعة بعد عودتها من إجازة الوضع؟", "law": "labor_law", "expected_article": 154},
+  {"id": 13, "question": "هل يجوز فصل المرأة العاملة أثناء إجازة الوضع أو المرض الناتج عنها؟", "law": "labor_law", "expected_article": 155},
+  {"id": 14, "question": "ماذا يقصد بالأجر الأساسي في نظام العمل؟", "law": "labor_law", "expected_article": 2},
+  {"id": 15, "question": "ماذا يحدث للعامل إذا انتقلت ملكية المنشأة لمالك جديد؟", "law": "labor_law", "expected_article": 18},
+  {"id": 16, "question": "متى تعد إصابة العامل إصابة عمل؟", "law": "labor_law", "expected_article": 134},
+  {"id": 17, "question": "كيف تحتسب اشتراكات التأمينات الاجتماعية؟", "law": "social_insurance_law", "expected_article": 19},
+  {"id": 18, "question": "ما التعويضات المستحقة للمشترك المصاب بإصابة عمل؟", "law": "social_insurance_law", "expected_article": 28},
+  {"id": 19, "question": "ماذا يحدث إذا توقف المشترك اختيارياً عن الاشتراك؟", "law": "social_insurance_law", "expected_article": 46},
+  {"id": 20, "question": "هل يشمل نظام التأمينات العمال المصابين داخل المملكة؟", "law": "social_insurance_law", "expected_article": 64}
+]

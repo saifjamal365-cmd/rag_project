@@ -1,0 +1,16 @@
+# Secret keys
+.env
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Python virtual environments
+venv/
+.venv/
+
+# Large generated vector databases
+law_vector_db/

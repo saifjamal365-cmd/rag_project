@@ -1,0 +1,22 @@
+[
+  {"id": 1, "question": "صاحب العمل حطني على فترة تجربة مرتين، هذا قانوني؟", "law": "labor_law", "expected_article": 54},
+  {"id": 2, "question": "طردوني من الشغل بدون أي إنذار، وش حقوقي؟", "law": "labor_law", "expected_article": 80},
+  {"id": 3, "question": "أقدر أسيب شغلي فجأة بدون ما أخبر صاحب العمل؟", "law": "labor_law", "expected_article": 81},
+  {"id": 4, "question": "أنا مريض وخايف يفصلوني بسبب المرض، يقدر صاحب العمل يسوي كذا؟", "law": "labor_law", "expected_article": 82},
+  {"id": 5, "question": "لما أخلص شغلي وأستقيل أستحق فلوس مكافأة؟", "law": "labor_law", "expected_article": 84},
+  {"id": 6, "question": "طلعت من الشغل بسبب صحتي، أستاهل مكافأة نهاية خدمة ولا لا؟", "law": "labor_law", "expected_article": 85},
+  {"id": 7, "question": "كم أقصى ساعات أشتغلها في اليوم؟", "law": "labor_law", "expected_article": 98},
+  {"id": 8, "question": "يقدر صاحب العمل يخليني أشتغل أكثر من الساعات العادية؟", "law": "labor_law", "expected_article": 99},
+  {"id": 9, "question": "كم إجازتي السنوية بالضبط؟", "law": "labor_law", "expected_article": 109},
+  {"id": 10, "question": "إذا مرضت هل يجيني راتب وأنا بإجازة مرضية؟", "law": "labor_law", "expected_article": 117},
+  {"id": 11, "question": "كم مدة الإجازة اللي تاخذها البنت لما تولد؟", "law": "labor_law", "expected_article": 151},
+  {"id": 12, "question": "أم جديدة ورجعت الشغل، تقدر تاخذ فترات راحة عشان ترضع؟", "law": "labor_law", "expected_article": 154},
+  {"id": 13, "question": "تقدر الشركة تفصل موظفة وهي في إجازة الولادة؟", "law": "labor_law", "expected_article": 155},
+  {"id": 14, "question": "ايش يعني الأجر الأساسي بالظبط؟", "law": "labor_law", "expected_article": 2},
+  {"id": 15, "question": "الشركة اللي أشتغل فيها انباعت لمالك جديد، إيش يصير بحقوقي؟", "law": "labor_law", "expected_article": 18},
+  {"id": 16, "question": "انجرحت وأنا شغال، هل تعتبر هذي إصابة عمل؟", "law": "labor_law", "expected_article": 134},
+  {"id": 17, "question": "كيف يحسبون اشتراكي بالتأمينات؟", "law": "social_insurance_law", "expected_article": 19},
+  {"id": 18, "question": "انصدمت بحادث وأنا بالشغل، أي تعويض أقدر أخذه من التأمينات؟", "law": "social_insurance_law", "expected_article": 28},
+  {"id": 19, "question": "وقفت اشتراكي بالتأمينات بنفسي، وش يصير؟", "law": "social_insurance_law", "expected_article": 46},
+  {"id": 20, "question": "أنا عامل وافد انصبت بالشغل جوا السعودية، يغطيني نظام التأمينات؟", "law": "social_insurance_law", "expected_article": 64}
+]
